@@ -46,6 +46,18 @@
 
 ---
 
+### 아키텍처
+
+<img width="1579" height="848" alt="yanus attendance architecture" src="https://github.com/user-attachments/assets/882a8310-6cd6-40f3-97da-33a57e3ff4d1" />
+
+---
+
+### ERD
+
+<img width="772" height="363" alt="yanus-attendance" src="https://github.com/user-attachments/assets/3059765f-894f-410b-a823-206ade2e32e7" />
+
+
+---
 
 <details>
 <summary>📋 환경 설정</summary>
